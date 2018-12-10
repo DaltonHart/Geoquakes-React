@@ -1,5 +1,7 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10423298/ea833a68-7079-11e5-84f8-0a925ab96893.png" width="60"> React GeoQuakes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DaltonHart/Geoquakes-React.svg)](https://greenkeeper.io/)
+
 ## Introduction
 
 > ***Note:*** *This is a pair programming activity! You must work with a partner on this project! There are many pieces that could trip you up, so having two pairs of eyes and two brains on one set of code will be an important tactic to minimize errors and generate ideas.*
